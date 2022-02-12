@@ -1,4 +1,4 @@
-## Oiee! Eu sou o Pedro Kaneto
+## Oie! Eu sou o Pedro Kaneto
 
 - 🔭 Atualmente trabalho como Estágiario de Suporte de Service Desk 
 - 🌱 Estou cursando Sistemas de Informação na FIAP.
