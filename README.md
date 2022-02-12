@@ -16,7 +16,9 @@
   <img align="center" alt="Kaneto-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Kaneto-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Kaneto-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  </div>
+  <img align="center" alt="Kaneto-UiPath" height="80" src="https://logos-download.com/wp-content/uploads/2021/01/UiPath_Logo.svg"/>
+    
+
   
   ##
   
