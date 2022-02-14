@@ -4,8 +4,9 @@
 - 🌱 Estou cursando Sistemas de Informação na FIAP.
 - 😄 Pronouns: ele/dele
 
+  ##
 
-<div>
+<div display:inline>
   <a href="https://github.com/P-kaneto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P-kaneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-kaneto&layout=compact&theme=tokyonight"/>
@@ -17,8 +18,7 @@
   <img align="center" alt="Kaneto-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Kaneto-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Kaneto-UiPath" height="80" src="https://logos-download.com/wp-content/uploads/2021/01/UiPath_Logo.svg"/>
-    
-
+  </div>  
   
   ##
   
